@@ -6,7 +6,7 @@
 	<artifactId>mymoneyassistant</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mymoneyassistant Maven Webapp</name>
+	<name>mymoneyassistant Maven Webapp small change master testbranch</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
